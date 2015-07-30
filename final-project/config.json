@@ -1,0 +1,9 @@
+{
+	"HDFSBaseFolder": "/user/ubuntu/DemoClassifier",
+	"N": "5",
+	"preprocessorMapperExecPath": "/home/ubuntu/BOWHistImagePreprocessor/Debug/BOWHistImagePreprocessor",
+	"preprocessorReducerExecPath": "/home/ubuntu/RepeaterReducer/Debug/RepeaterReducer",
+	"classifierMapperExecPath": "/home/ubuntu/BatchORBTestingMapper/Debug/BatchORBTestingMapper",
+	"classifierReducerExecPath": "/home/ubuntu/BatchTopNAggregatorTestingReducer/Debug/BatchTopNAggregatorTestingReducer",
+	"centroidsHDFSPath": "/user/ubuntu/DemoClassifier/centroids/centroids-32-10.json"
+}
